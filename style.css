@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #000;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+
+}
